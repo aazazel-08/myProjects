@@ -1,0 +1,49 @@
+body.bg-bright {
+  background-color: #f0e68c; 
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.heading {
+  font-weight: 700;
+}
+
+.input-group-addon {
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  padding: 8px 12px;
+  font-size: 14px;
+}
+
+#tipInput {
+  margin-left: 10px;
+  width: 100%;
+}
+
+#tipOutput {
+  width: 50px;
+  text-align: center;
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  padding: 8px 12px;
+}
+
+.card-body {
+  padding: 25px 30px;
+}
+
+
+
+input.form-control[disabled] {
+  background-color: #f8f9fa;
+  font-weight: bold;
+}
+
+.card.bg-calculator {
+  background-color: yellowgreen; 
+  border: 10px solid;
+  color: #333; 
+}
